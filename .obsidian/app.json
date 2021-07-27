@@ -1,0 +1,9 @@
+{
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "vimMode": false,
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

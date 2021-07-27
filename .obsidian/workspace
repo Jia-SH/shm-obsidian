@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "cb26e4fd80f7a62e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e80047cae7a6a726",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "829e8b281647295d"
+      },
+      {
+        "id": "7222edc88e9171a4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "829e8b281647295d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23cb338429d5adef",
+    "type": "split",
+    "children": [
+      {
+        "id": "96dc2fa769d1d927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d90b16735f778aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cab8423d403e9fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "压力环",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "568f486326f3da9a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244
+  },
+  "right": {
+    "id": "7ac805dd12793795",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f6bced8112bb03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f66eb6177fd5a646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef7e729ebe0d90dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5c3e11077ae212a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "092c52fdf9fd5730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e80047cae7a6a726",
+  "lastOpenFiles": [
+    "202107271101.md",
+    "算法/挠度判断车辆是否通过.md",
+    "算法/加速度积分算法.md",
+    "算法/未命名.md",
+    "监测内容/通用监测内容.md",
+    "监测内容/梁端位移.md",
+    "监测内容/伸缩缝位移.md",
+    "监测内容/未命名.md",
+    "监测内容/拉索监测.md",
+    "监测内容/交通量的监测.md"
+  ]
+}
