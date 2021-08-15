@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "结构健康监测的意义.md",
+            "file": "数据的分布/数据的分布.md",
             "mode": "source"
           }
         },
-        "group": "45a1fad321d90fd5"
+        "group": "829e8b281647295d"
       },
       {
-        "id": "4eeab6a219a0904f",
+        "id": "7222edc88e9171a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "结构健康监测的意义.md",
-            "mode": "preview"
+            "file": "数据的分布/数据的分布.md",
+            "mode": "source"
           }
         },
-        "group": "45a1fad321d90fd5"
+        "group": "829e8b281647295d"
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "结构健康监测的意义.md",
+                "file": "数据的分布/数据的分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "结构健康监测的意义.md",
+                "file": "数据的分布/数据的分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "结构健康监测的意义.md"
+                "file": "数据的分布/数据的分布.md"
               }
             }
           }
@@ -143,15 +143,15 @@
   },
   "active": "e80047cae7a6a726",
   "lastOpenFiles": [
-    "结构健康监测的意义.md",
-    "前置知识.md",
-    "README.md",
-    "监测预警.md",
+    "数据的分布/数据的分布.md",
+    "阈值的确定/怎么确定阈值.md",
     "未命名.md",
-    "桥梁结构健康监测系统组成/数据采集、传输、处理与管理子系统.md",
-    "桥梁结构健康监测系统组成/桥梁结构健康监测系统的组成.md",
-    "桥梁结构健康监测系统组成/结构安全评估及预警子系统.md",
-    "桥梁结构健康监测系统组成/结构安全感知子系统.md",
-    "算法/加速度积分算法.md"
+    "数据的分布/未命名.md",
+    "数据的展示/图形的种类.md",
+    "202107271101.md",
+    "算法/挠度判断车辆是否通过.md",
+    "算法/加速度积分算法.md",
+    "算法/未命名.md",
+    "监测内容/通用监测内容.md"
   ]
 }
