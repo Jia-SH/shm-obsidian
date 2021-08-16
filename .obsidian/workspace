@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数据的分布/数据的分布.md",
+            "file": "结构健康监测的意义.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数据的分布/数据的分布.md",
+            "file": "结构健康监测的意义.md",
             "mode": "source"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据的分布/数据的分布.md",
+                "file": "结构健康监测的意义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据的分布/数据的分布.md",
+                "file": "结构健康监测的意义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据的分布/数据的分布.md"
+                "file": "结构健康监测的意义.md"
               }
             }
           }
@@ -143,6 +143,7 @@
   },
   "active": "e80047cae7a6a726",
   "lastOpenFiles": [
+    "结构健康监测的意义.md",
     "数据的分布/数据的分布.md",
     "阈值的确定/怎么确定阈值.md",
     "未命名.md",
@@ -151,7 +152,6 @@
     "202107271101.md",
     "算法/挠度判断车辆是否通过.md",
     "算法/加速度积分算法.md",
-    "算法/未命名.md",
-    "监测内容/通用监测内容.md"
+    "算法/未命名.md"
   ]
 }
