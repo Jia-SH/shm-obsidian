@@ -2,8 +2,9 @@
   "spellcheck": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "showFrontmatter": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }

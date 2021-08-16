@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e80047cae7a6a726",
+        "id": "0498515c25609d2f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "结构健康监测的意义.md",
-            "mode": "source"
-          }
-        },
-        "group": "829e8b281647295d"
-      },
-      {
-        "id": "7222edc88e9171a4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "结构健康监测的意义.md",
-            "mode": "source"
-          }
-        },
-        "group": "829e8b281647295d"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "结构健康监测的意义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "结构健康监测的意义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "结构健康监测的意义.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -141,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e80047cae7a6a726",
+  "active": "0498515c25609d2f",
   "lastOpenFiles": [
     "结构健康监测的意义.md",
     "数据的分布/数据的分布.md",
