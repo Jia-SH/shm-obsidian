@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0498515c25609d2f",
+        "id": "e80047cae7a6a726",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "学习资料/健康监测相关书籍.md",
+            "mode": "source"
+          }
+        },
+        "group": "45a1fad321d90fd5"
+      },
+      {
+        "id": "4eeab6a219a0904f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习资料/健康监测相关书籍.md",
+            "mode": "preview"
+          }
+        },
+        "group": "45a1fad321d90fd5"
       }
     ],
     "direction": "vertical"
@@ -73,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "学习资料/健康监测相关书籍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "学习资料/健康监测相关书籍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "学习资料/健康监测相关书籍.md"
+              }
             }
           }
         ],
@@ -121,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0498515c25609d2f",
+  "active": "e80047cae7a6a726",
   "lastOpenFiles": [
-    "结构健康监测的意义.md",
-    "数据的分布/数据的分布.md",
-    "阈值的确定/怎么确定阈值.md",
+    "学习资料/健康监测相关书籍.md",
+    "学习资料/未命名.md",
     "未命名.md",
-    "数据的分布/未命名.md",
-    "数据的展示/图形的种类.md",
-    "202107271101.md",
-    "算法/挠度判断车辆是否通过.md",
-    "算法/加速度积分算法.md",
-    "算法/未命名.md"
+    "结构健康监测的意义.md",
+    "前置知识.md",
+    "README.md",
+    "监测预警.md",
+    "桥梁结构健康监测系统组成/数据采集、传输、处理与管理子系统.md",
+    "桥梁结构健康监测系统组成/桥梁结构健康监测系统的组成.md",
+    "桥梁结构健康监测系统组成/结构安全评估及预警子系统.md"
   ]
 }
