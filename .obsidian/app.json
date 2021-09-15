@@ -2,7 +2,7 @@
   "spellcheck": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "vimMode": true,
+  "vimMode": false,
   "showFrontmatter": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
